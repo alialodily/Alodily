@@ -1,0 +1,52 @@
+PATIENT LINK AI — LICENSE
+
+Copyright (c) 2026 Ali "Abu Ali" Alodily — Security Forces Hospital Program (SFHP),
+Dammam, Saudi Arabia. All rights reserved.
+
+This software is a concept demonstration and operational tool developed for
+internal use at the Security Forces Hospital Program (SFHP). The following
+terms govern its use, modification, and distribution:
+
+1. INTERNAL USE
+   This software is licensed for non-commercial, internal evaluation and
+   pilot deployment at SFHP. Use within other healthcare facilities,
+   institutions, or commercial settings requires written permission from
+   the project lead.
+
+2. MODIFICATION
+   You may modify the source code for internal use at SFHP. Modifications
+   intended for redistribution require written permission from the
+   project lead.
+
+3. DISTRIBUTION
+   Redistribution of the source code, in whole or in part, is prohibited
+   without written permission from the project lead. This includes posting
+   to public repositories or sharing with external parties.
+
+4. ATTRIBUTION
+   Any authorized use, modification, or distribution must retain this
+   copyright notice and attribution to the original author and SFHP.
+
+5. CLINICAL DISCLAIMER
+   This software is a SECONDARY engagement platform. It does NOT replace
+   the nurse call bell, clinical judgment, or any primary emergency
+   notification system. Use in clinical workflows requires institutional
+   approval, validation against hospital protocols, and ongoing safety
+   review.
+
+6. THIRD-PARTY COMPONENTS
+   This project uses open-source dependencies (React, Vite, Tailwind, etc.)
+   under their respective licenses. AI features integrate with the
+   Anthropic API under separate terms of service.
+
+7. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+   IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+   CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+   TORT OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+   SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For licensing inquiries, partnership discussions, or permission requests:
+Contact the project lead at SFHP, Dammam, Saudi Arabia.
